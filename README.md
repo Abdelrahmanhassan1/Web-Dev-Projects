@@ -4,16 +4,6 @@ This repository contains all the web projects I have done.
 
 ## Projects
 
-There are 12 projects in this repository:
-
-<ul>
-  <li><a href=""></a>Project 1</a></li>
-  <li><a href=""></a>Project 2</a></li>
-  <li><a href=""></a>Project 3</a></li>
-</ul>
-
-<hr />
-
 ## 3D Medical Viewer
 
 <p>A dynamically react workstation for loading DICOM medical images, applying filters, and using marching cubes for image customization.</p>
