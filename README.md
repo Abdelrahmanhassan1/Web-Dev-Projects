@@ -105,7 +105,7 @@ This repository contains all the web projects I have done.
 
 ## Expense Tracker
 
-<p>A React app that tracks the expenses of users, adds visual bars of each month's expenses, and filters them by year. </p>
+<p>A React app that tracks the expenses of users, adds visual bars of each month's expenses and filters them by year. </p>
 
 <img src="./images/Expenses Tracker.png" width="500" />
 
@@ -177,7 +177,7 @@ This repository contains all the web projects I have done.
 
 ## To-Do List
 
-<p>A simple to do list web application that allows users to create, read, update, and delete to do list items. The application is built using the following technologies:</p>
+<p>A simple to-do list web application that allows users to create, read, update, and delete to-do list items. The application is built using the following technologies:</p>
 
 <img src="./images/To Do.png" width="500" />
 
@@ -193,7 +193,7 @@ This repository contains all the web projects I have done.
 <hr />
 ## Caesar Cipher Algorithm
 
-<p>An algorithm is used for encryption and decryption of phrases. It is a useful tool for 	secure communication and information exchange.</p>
+<p>An algorithm is used for encryption and decryption of phrases. It is a useful tool for secure communication and information exchange.</p>
 
 <img src="./images/Caeser Cipher.png" width="500" />
 
@@ -210,7 +210,7 @@ This repository contains all the web projects I have done.
 
 ## Doomsday Algorithm
 
-<p>An algorithm returns the weekday of any date provided. It is a useful tool for 	calculating weekdays for various purposes.</p>
+<p>An algorithm returns the weekday of any date provided. It is a useful tool for calculating weekdays for various purposes.</p>
 
 <img src="./images/Doomsday.png" width="500" />
 
@@ -241,3 +241,16 @@ This repository contains all the web projects I have done.
 <a href="https://github.com/Abdelrahmanhassan1/Wikipedia-Restful-API">Github Repository</a>
 
 <hr />
+
+## VEEM 3D Webiste
+
+<hr />
+
+## PixiCamel
+
+<hr />
+
+## MRKBA
+
+<hr />
+
